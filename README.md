@@ -1,13 +1,15 @@
 PLease Checkout the full stack music application code under the master branch........ ):
 
 Commands for the Execution..
+
+
 Backend:
 npm install
-npm run server
+npm run server  ,
 
 Frontend:
 npm install
-npm run dev
+npm run dev  ,
 
 Admin
 npm install
