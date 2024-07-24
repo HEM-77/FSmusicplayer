@@ -11,6 +11,4 @@ Frontend:
 npm install
 npm run dev  ,
 
-Admin
-npm install
-npm run dev
+
